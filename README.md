@@ -27,6 +27,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,webpack" />
 </p>
 
+--
+
+<p align="center"><i>“Make it simple. Make it beautiful.”</i></p>
+
 ---
 
 ## 🧩 What I Do
