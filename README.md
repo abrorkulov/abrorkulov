@@ -50,11 +50,10 @@ Filters, products list, cart, UI interactions.
 ---
 
 ## 💬 Contact
-<p align="center">
-  <a href="https://t.me/abrorkulov_dev"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
-  <a href="https://instagram.com/abrorkulovv"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
-  <a href="https://discordapp.com/users/yourid"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
-</p>
+## 💬 Contact
+- **Discord:** kanzar0u  
+- **Telegram:** @abrorkulov_dev  
+- **Instagram:** abrorkulovv  
 
 ---
 
