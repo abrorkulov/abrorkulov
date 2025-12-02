@@ -60,6 +60,4 @@ Filters, products list, cart, UI interactions.
 
 ---
 
-<p align="center">
-  <b>🔥 Creating modern UI. Delivering smooth user experiences.</b>
-</p>
+
