@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hi, I'm Jahongir — Frontend Senior Developer</h1>
+<h1 align="center">👋 Hi, I'm Jahongir — Frontend Junior Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00C2FF&center=true&vCenter=true&width=500&lines=Frontend+Developer" />
@@ -45,7 +45,6 @@ Filters, products list, cart, UI interactions.
 
 ---
 
-## 💬 Contact
 ## 💬 Contact
 - **Discord:** kanzar0u  
 - **Telegram:** @abrorkulov_dev  
