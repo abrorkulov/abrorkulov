@@ -27,17 +27,9 @@
   <img src="https://skillicons.dev/icons?i=git,github,figma,webpack" />
 </p>
 
---
-
-<p align="center"><i>“Make it simple. Make it beautiful.”</i></p>
-
 ---
 
-## 🧩 What I Do
-- Build animated, modern, responsive UI  
-- Create rich user experiences with React  
-- Convert designs → pixel-perfect frontend  
-- Make smooth micro interactions  
+<p align="center"><i>“Make it simple. Make it beautiful.”</i></p>
 
 ---
 
@@ -58,9 +50,19 @@ Filters, products list, cart, UI interactions.
 ---
 
 ## 💬 Contact
-- **Discord:** kanzar0u  
-- **Telegram:** @abrorkulov_dev  
-- **Instagram:** abrorkulovv  
+<p align="center">
+  <a href="https://t.me/abrorkulov_dev"><img src="https://skillicons.dev/icons?i=telegram" width="40" /></a>
+  <a href="https://instagram.com/abrorkulovv"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
+  <a href="https://discordapp.com/users/yourid"><img src="https://skillicons.dev/icons?i=discord" width="40" /></a>
+</p>
+
+---
+
+## 🧩 What I Do
+- Build animated, modern, responsive UI  
+- Create rich user experiences with React  
+- Convert designs → pixel-perfect frontend  
+- Make smooth micro interactions  
 
 ---
 
