@@ -29,6 +29,14 @@
 
 ---
 
+## 🧩 What I Do
+- Build animated, modern, responsive UI  
+- Create rich user experiences with React  
+- Convert designs → pixel-perfect frontend  
+- Make smooth micro interactions  
+
+---
+
 ## 🌐 Featured Projects
 
 ### ✨ React UI Landing Page  
