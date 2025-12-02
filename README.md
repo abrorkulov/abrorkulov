@@ -24,7 +24,7 @@
 
 ### **Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,webpack,visual studio" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,webpack," />
 </p>
 
 ---
