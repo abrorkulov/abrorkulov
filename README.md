@@ -29,10 +29,6 @@
 
 ---
 
-<p align="center"><i>“Make it simple. Make it beautiful.”</i></p>
-
----
-
 ## 🌐 Featured Projects
 
 ### ✨ React UI Landing Page  
