@@ -29,6 +29,10 @@
 
 ---
 
+![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌐 Featured Projects
 
 ### ✨ React UI Landing Page  
@@ -59,7 +63,5 @@ Filters, products list, cart, UI interactions.
 - Make smooth micro interactions  
 
 ---
-
-![Snake animation](https://github.com/mirsaid-mirzohidov/mirsaid-mirzohidov/blob/output/github-contribution-grid-snake.svg)
 
 
