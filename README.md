@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me.
 - 🎨 Passionate about clean UI and modern frontend  
 - ⚛ Experienced with React, components, hooks & SPA logic  
 - 🔥 Strong in animations, transitions, adaptive layouts  
