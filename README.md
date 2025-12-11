@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hi, I'm Jahongir — Frontend Developer</h1>
 
 <p align="center">
@@ -9,7 +8,7 @@
 
 ## 🚀 About Me.
 - 🎨 Passionate about clean UI and modern frontend  
-- ⚛ Experienced with React, components, hooks & SPA logic  
+- ⚛️ Experienced with React, components, hooks & SPA logic  
 - 🔥 Strong in animations, transitions, adaptive layouts  
 - 🌈 Love creating smooth and beautiful user experiences  
 
@@ -17,12 +16,12 @@
 
 ## 🛠 Tech Stack
 
-### **Frontend**
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,html,css,vite" />
 </p>
 
-### **Tools**
+### Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,figma,webpack," />
 </p>
@@ -49,10 +48,9 @@ Filters, products list, cart, UI interactions.
 
 ---
 
-## 💬 Contact
-- **Discord:** kanzar0u  
-- **Telegram:** @abrorkulov_dev  
-- **Instagram:** abrorkulovv  
+## 💬 Contact  
+- Telegram: @abrorkulov_dev  
+- Instagram: abrorkulovv  
 
 ---
 
@@ -63,5 +61,3 @@ Filters, products list, cart, UI interactions.
 - Make smooth micro interactions  
 
 ---
-
-
